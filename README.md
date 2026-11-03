@@ -45,5 +45,5 @@
 ---
 
 📫 **Connect with me:**  
-- **LinkedIn:** [linkedin.com/in/brett-chaney-14a5075a/]([https://www.linkedin.com](https://www.linkedin.com/in/brett-chaney-14a5075a/))
+- **LinkedIn:** [linkedin.com/in/brett-chaney-14a5075a/](https://www.linkedin.com/in/brett-chaney-14a5075a/)
 - **Email:** *Brett.L.Chaney@gmail.com*
