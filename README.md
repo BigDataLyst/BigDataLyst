@@ -28,7 +28,10 @@
 - **Tech:** Python, yFinance, Parquet, Machine Learning
 - **Highlights:** Built data-pipeline routines for tracking regime shifts and historical price behaviors.
 
----
+#### 4. [EV Charger Networks Analysis](https://github.com/BigDataLyst/EV-charger-networks)
+*Exploratory data analysis and analytics pipeline evaluating public EV charging infrastructure.*
+- **Tech:** Python, Pandas, GeoPandas, Matplotlib
+- **Highlights:** Ingests and processes public charging station data to evaluate geographic coverage, power distribution (Level 2 vs. DC Fast Charging), and operator network profiles.
 
 ### 📊 Tech Stack & Tools
 
